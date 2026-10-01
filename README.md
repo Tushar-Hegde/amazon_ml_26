@@ -50,7 +50,7 @@ All numbers are **local, honest estimates** (scored S1 records were never seen i
 | Slice 1 (TN + AZ / Kerala + Rajasthan), 6,000 S1 | 99.88% | 8.7 |
 | Slice 2 (Ohio / Gujarat), 6,000 S1 | 99.88% | 8.7 |
 | Slice 1, 40,000 S1, saved ranker | 99.84% | 8.7 |
-| **Full train data (Kaggle), ~20,000 S1** | **99.40%** (India 99.23%, US 99.51%) | 11.0 |
+| **~20,000 S1** | **99.40%** (India 99.23%, US 99.51%) | 11.0 |
 
 Every S1 gets at least one candidate. The drop at full size comes from country-wide look-alikes (see [limitations](#known-limitations-and-next-steps)).
 
